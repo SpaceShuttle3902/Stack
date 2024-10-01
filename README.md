@@ -1,5 +1,5 @@
-#Data Structures
-##Assignment 2 Q2
+# Data Structures
+## Assignment 2 Q2
 
 Data Structures assignment. The purpose of this homework is to create a stack class with multiple functions.
 
